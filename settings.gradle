@@ -1,0 +1,6 @@
+rootProject.name = "OVgo"
+
+include(":app")
+include(":ui")
+include(":domain")
+include(":api")

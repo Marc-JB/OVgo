@@ -1,1 +1,12 @@
-<manifest package="nl.marc_apps.ovgo.ui" />
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="nl.marc_apps.ovgo.ui">
+
+    <application>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/title_activity_main"
+            android:theme="@style/AppTheme"></activity>
+    </application>
+
+</manifest>

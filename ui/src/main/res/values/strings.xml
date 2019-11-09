@@ -1,7 +1,13 @@
 <resources>
-    <string name="trips">Trips</string>
-    <string name="disruptions">Disruptions</string>
-    <string name="departures">Departures</string>
-    <string name="languageCode">en</string>
-    <string name="cancelled">Cancelled</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_home_second">Hello HomeSecondFragment. Arg: %1$s</string>
+    <string name="hello_dashboard_second">Hello HomeSecondFragment. Arg: %1$s</string>
+    <string name="hello_notifications_second">Hello HomeSecondFragment. Arg: %1$s</string>
+    <string name="title_home">Trips</string>
+    <string name="title_dashboard">Departures</string>
+    <string name="title_notifications">Disruptions</string>
+
+    <string name="home_second">Trips Second</string>
 </resources>
